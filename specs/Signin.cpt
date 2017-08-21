@@ -1,0 +1,3 @@
+# Login user with email <email> and password <password>
+* Login as "user@gmail.com" with password "password"
+* Show "Welcome" message to "user@gmail.com"
